@@ -18,6 +18,7 @@
 <h3 align="left">Socials and Coding Profiles:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan_1856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_1856" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/aryan1856" target="blank"><img align="center" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" alt="aryan1856" height="30" width="30"></img></a>
 <a href="https://linkedin.com/in/aryandiwakar1856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryandiwakar1856" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22994421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22994421" height="30" width="40" /></a>
 <a href="https://instagram.com/imhryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imhryan" height="30" width="40" /></a>
